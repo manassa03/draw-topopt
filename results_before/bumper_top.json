@@ -1,0 +1,11 @@
+{
+  "compliance": 1508.3462719189783,
+  "volume": 0.4010641275394138,
+  "gray": 0.000849318385858724,
+  "undercuts": 0,
+  "iterations": 394,
+  "settled": false,
+  "asymmetric_elements": 406,
+  "baseline": 139.81222282319715,
+  "handbuild": 1263.6360561320776
+}

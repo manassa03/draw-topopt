@@ -1,0 +1,38 @@
+{
+  "enclosure_with_skeleton": {
+    "C": 132.81388233865175,
+    "volume": 0.40187158248586263,
+    "gray": 1.3611260912406103e-05,
+    "undercuts": 0,
+    "connected": true,
+    "iterations": 389,
+    "settled": false
+  },
+  "enclosure_no_skeleton": {
+    "C": 113.06814068755864,
+    "volume": 0.40000000002965835,
+    "gray": 1.2792796555436647e-10,
+    "undercuts": 0,
+    "connected": true,
+    "iterations": 342,
+    "settled": true
+  },
+  "bumper_with_skeleton": {
+    "C": 1335.2246791657562,
+    "volume": 0.4004166666228961,
+    "gray": 1.750849237547455e-10,
+    "undercuts": 0,
+    "connected": true,
+    "iterations": 302,
+    "settled": true
+  },
+  "bumper_no_skeleton": {
+    "C": 789.8205338674934,
+    "volume": 0.399999999999298,
+    "gray": 7.661778340685054e-12,
+    "undercuts": 0,
+    "connected": true,
+    "iterations": 477,
+    "settled": true
+  }
+}

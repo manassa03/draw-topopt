@@ -1,0 +1,18 @@
+enclosure: 5800 layouts generated, 3452 within the volume budget
+  best: C = 111.2403, vol = 0.4000, undercuts = 0, params = {'w': 4, 'b1': 8, 'b2': 7, 's': 32}
+  single hand-built layout: C = 126.2328 (best of sweep is -11.88%)
+  top 5:
+    C = 111.2403  vol = 0.4000  w=4, b1=8, b2=7, s=32
+    C = 113.8168  vol = 0.3975  w=4, b1=8, b2=7, s=28
+    C = 115.2928  vol = 0.4000  w=4, b1=7, b2=8, s=52
+    C = 115.8286  vol = 0.3975  w=4, b1=9, b2=7, s=16
+    C = 116.3933  vol = 0.3950  w=4, b1=8, b2=7, s=24
+bumper: 5560 layouts generated, 1378 within the volume budget
+  best: C = 904.1097, vol = 0.3992, undercuts = 0, params = {'w': 4, 'b': 4, 'd': 11, 'h': 50, 'shape': 'V'}
+  single hand-built layout: C = 1263.6361 (best of sweep is -28.45%)
+  top 5:
+    C = 904.1097  vol = 0.3992  w=4, b=4, d=11, h=50, shape=V
+    C = 928.1381  vol = 0.4000  w=4, b=5, d=11, h=40, shape=V
+    C = 942.2435  vol = 0.4000  w=4, b=5, d=9, h=60, shape=V
+    C = 976.5382  vol = 0.4000  w=4, b=5, d=8, h=40, shape=flat
+    C = 992.8255  vol = 0.3967  w=4, b=6, d=9, h=40, shape=V

@@ -1,0 +1,193 @@
+﻿===== environment.txt =====
+python 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+platform Windows-10-10.0.26200-SP0
+processor Intel64 Family 6 Model 186 Stepping 3, GenuineIntel
+cpu_count 12
+numpy 2.4.6
+scipy 1.17.1
+mmapy 0.3.1
+matplotlib 3.11.2
+pytest 9.1.1
+mmapy.mmasub signature: (m: int, n: int, iter: int, xval: numpy.ndarray, xmin: numpy.ndarray, xmax: numpy.ndarray, xold1: numpy.ndarray, xold2: numpy.ndarray, f0val: float, df0dx: numpy.ndarray, fval: numpy.ndarray, dfdx: numpy.ndarray, low: numpy.ndarray, upp: numpy.ndarray, a0: float, a: numpy.ndarray, c: numpy.ndarray, d: numpy.ndarray, move: float = 0.5, asyinit: float = 0.5, asydecr: float = 0.7, asyincr: float = 1.2, asymin: float = 0.01, asymax: float = 10, raa0: float = 1e-05, albefa: float = 0.1, **kwargs) -> Tuple[numpy.ndarray, numpy.ndarray, float, numpy.ndarray, numpy.ndarray, numpy.ndarray, numpy.ndarray, float, numpy.ndarray, numpy.ndarray]
+===== bumper.log =====
+skeleton covers 0.0667 of the domain
+bumper, top draw: 302 iterations
+  compliance   1335.2247
+  volume       0.4004   (dilated 0.4004)
+  gray level   0.0000
+  undercuts    0
+  settled      True   last 8: 1335.2 1335.2 1335.2 1335.2 1335.2 1335.2 1335.2 1335.2
+  elements that differ from the mirror image: 290
+  unconstrained baseline 139.8122 -> penalty +855.0%
+  hand-built layout      1263.6361 -> penalty +803.8%
+===== bumper_asymmetry.log =====
+optimum: C = 1335.2247, vol = 0.4004, asymmetric elements = 290
+
+support reactions
+  pin:    Rx = -1.52e-10   Ry = 0.500000
+  roller:                 Ry = 0.500000
+  sum Ry = 1.000000 (applied 1.000000)
+
+symmetrized design
+  C = 1713.9365 vs 1335.2247 (+28.36%), vol = 0.3400 (budget 0.4004), undercuts = 0
+
+Rx ~ 0, so the supports aren't the cause; this crude symmetrization just isn't as good as an optimized symmetric design would be.
+===== bumper_handbuild.log =====
+bumper hand-build (4-wide columns at both ends + 7-row top band)
+  volume      0.3933  (budget 0.40)
+  compliance  1263.6361
+  undercuts   0
+===== cantilever_check.log =====
+cantilever 200x20 (L/h = 10)
+  Euler-Bernoulli      4000.00
+  Timoshenko           4031.20
+  FE, mid-height       4018.48   (+0.46% vs EB, -0.32% vs Timoshenko)
+  FE, edge average     4018.73   (+0.47% vs EB)
+cantilever 240x20 (L/h = 12)
+  Euler-Bernoulli      6912.00
+  Timoshenko           6949.44
+  FE, mid-height       6929.97   (+0.26% vs EB, -0.28% vs Timoshenko)
+  FE, edge average     6930.21   (+0.26% vs EB)
+===== enclosure.log =====
+enclosure, top draw: 389 iterations
+  compliance   132.8139
+  volume       0.4019   (dilated 0.4019)
+  gray level   0.0000
+  undercuts    0
+  settled      False   last 8: 132.72 132.82 132.54 131.48 132.81 132.81 132.81 132.81
+  unconstrained baseline 13.7590 -> penalty +865.3%
+  hand-built layout      126.2328 -> penalty +817.5%
+===== enclosure_cold_bottom.log =====
+uniform start, both fields in the draw frame:
+  max |filtered_top - filtered_bottom| = 2.2e-16
+  columns whose running-min owner differs: 76 of 80
+
+top draw     C = 132.8139  vol = 0.4019  gray = 0.0000
+bottom draw  C = 118.3072  vol = 0.4000  gray = 0.0000  undercuts = 0
+difference 10.92%, 47 elements differ from the mirrored top design
+history gap: iteration 1 4.3e-12, iteration 2 7.8e-02
+===== enclosure_from_handbuild.log =====
+hand-build start:  C = 126.2328
+after 224 iterations: C = 237.3149, vol = 0.4003, gray = 0.0012, undercuts = 0, settled = False
+===== enclosure_handbuild.log =====
+enclosure hand-build (7-row top band + 6-wide left column)
+  volume      0.3987  (budget 0.40)
+  compliance  126.2328
+  undercuts   0
+===== enclosure_mirror_warmstart.log =====
+top draw (cold)          C = 132.8139
+bottom draw (warm, b=64) C = 132.8145  after 2 iterations
+  difference 0.0005%, max |bottom - flip(top)| = 3.71e-04
+  volume 0.4019, gray 0.0000, undercuts 0
+mirror holds
+===== filter_radius.log =====
+unconstrained baselines (density filter)
+                  rmin=1.5    rmin=2.0    rmin=3.0  
+ enclosure 80x20      13.759      14.324      16.409
+   bumper 120x20     139.812     142.081     174.197
+
+MBB 60x20: density filter C = 218.801 (gray 0.269), sensitivity filter C = 203.163 (gray 0.174)
+
+draw-constrained bumper, top draw
+  rmin          C     vol    gray  iters   penalty
+   1.5   1335.225  0.4004  0.0000    302   +855.0%
+   2.0    911.760  0.4000  0.0006    500   +541.7%   mean |change vs previous rmin| = 0.094
+   3.0    876.252  0.4000  0.0042    368   +403.0%   mean |change vs previous rmin| = 0.025
+
+Emin check, enclosure baseline at rmin = 1.5
+  Emin = 1e-06: C = 13.7589
+  Emin = 1e-09: C = 13.7590
+===== handbuild_sweep.log =====
+enclosure: 5800 layouts generated, 3452 within the volume budget
+  best: C = 111.2403, vol = 0.4000, undercuts = 0, params = {'w': 4, 'b1': 8, 'b2': 7, 's': 32}
+  single hand-built layout: C = 126.2328 (best of sweep is -11.88%)
+  top 5:
+    C = 111.2403  vol = 0.4000  w=4, b1=8, b2=7, s=32
+    C = 113.8168  vol = 0.3975  w=4, b1=8, b2=7, s=28
+    C = 115.2928  vol = 0.4000  w=4, b1=7, b2=8, s=52
+    C = 115.8286  vol = 0.3975  w=4, b1=9, b2=7, s=16
+    C = 116.3933  vol = 0.3950  w=4, b1=8, b2=7, s=24
+bumper: 5560 layouts generated, 1378 within the volume budget
+  best: C = 904.1097, vol = 0.3992, undercuts = 0, params = {'w': 4, 'b': 4, 'd': 11, 'h': 50, 'shape': 'V'}
+  single hand-built layout: C = 1263.6361 (best of sweep is -28.45%)
+  top 5:
+    C = 904.1097  vol = 0.3992  w=4, b=4, d=11, h=50, shape=V
+    C = 928.1381  vol = 0.4000  w=4, b=5, d=11, h=40, shape=V
+    C = 942.2435  vol = 0.4000  w=4, b=5, d=9, h=60, shape=V
+    C = 976.5382  vol = 0.4000  w=4, b=5, d=8, h=40, shape=flat
+    C = 992.8255  vol = 0.3967  w=4, b=6, d=9, h=40, shape=V
+===== make_method_figures.log =====
+saved results/figure_3_1_study_problems.png and results/figure_3_2_chain.png
+===== matched_control.log =====
+control gradient check (16x6, beta = 8): relative error 1.11e-06 (OK)
+
+enclosure
+  baseline (classic SIMP)       C =    13.7590   gray 0.1585
+  control (pipeline, no draw)   C =    16.5342   vol 0.4007  gray 0.0007  undercuts 78  settled False
+  draw-constrained              C =   132.8139   vol 0.4019  gray 0.0000  undercuts 0  settled False
+  hand-built                    C =   126.2328
+  control vs baseline      +20.2%  (skeleton + projection)
+  draw vs control         +703.3%  (draw operator alone)
+  draw vs baseline        +865.3%  (total)
+
+bumper
+  baseline (classic SIMP)       C =   139.8122   gray 0.2579
+  control (pipeline, no draw)   C = 14196.5409   vol 0.3999  gray 0.0039  undercuts 480  settled True
+  draw-constrained              C =  1335.2247   vol 0.4004  gray 0.0000  undercuts 0  settled True
+  hand-built                    C =  1263.6361
+  control vs baseline   +10054.0%  (skeleton + projection)
+  draw vs control          -90.6%  (draw operator alone)
+  draw vs baseline        +855.0%  (total)
+===== mesh_independence.log =====
+     mesh  rmin   elems           C  iters   gray
+  60x20     1.5    1200    203.1631     94  0.174  (1s)
+ 120x40     3.0    4800    206.9703    101  0.186  (8s)
+ 180x60     4.5   10800    208.4191     96  0.186  (19s)
+ 240x80     6.0   19200    209.3877     98  0.186  (41s)
+change between meshes: +1.87%, +0.70%, +0.46%
+spread (max-min)/mean: 3.01%
+===== no_skeleton.log =====
+enclosure, with_skeleton: C = 1.3281e+02, vol = 0.4019, gray = 0.0000, undercuts = 0, load path connected = True, settled = False
+enclosure, no_skeleton: C = 1.1307e+02, vol = 0.4000, gray = 0.0000, undercuts = 0, load path connected = True, settled = True
+bumper, with_skeleton: C = 1.3352e+03, vol = 0.4004, gray = 0.0000, undercuts = 0, load path connected = True, settled = True
+bumper, no_skeleton: C = 7.8982e+02, vol = 0.4000, gray = 0.0000, undercuts = 0, load path connected = True, settled = True
+===== pytest.log =====
+============================= test session starts =============================
+platform win32 -- Python 3.11.0, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\naris\Downloads\draw-topopt - Copy\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\naris\Downloads\draw-topopt - Copy
+configfile: pyproject.toml
+testpaths: tests
+collecting ... collected 19 items
+
+tests/test_fem.py::test_element_stiffness_symmetric_with_three_rigid_body_modes PASSED [  5%]
+tests/test_fem.py::test_handbuild_compliance[enclosure-enclosure_handbuild-126.2328] PASSED [ 10%]
+tests/test_fem.py::test_handbuild_compliance[bumper-bumper_handbuild-1263.6361] PASSED [ 15%]
+tests/test_fem.py::test_cantilever_close_to_beam_theory PASSED           [ 21%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[1.0-top] PASSED [ 26%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[1.0-bottom] PASSED [ 31%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[8.0-top] PASSED [ 36%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[8.0-bottom] PASSED [ 42%]
+tests/test_projection.py::test_gray_level_drops_with_beta PASSED         [ 47%]
+tests/test_projection.py::test_projection_removes_undercuts PASSED       [ 52%]
+tests/test_projection.py::test_feasible_binary_design_is_unchanged PASSED [ 57%]
+tests/test_projection.py::test_projection_gradient_matches_finite_difference PASSED [ 63%]
+tests/test_projection.py::test_robust_fields_are_ordered_and_distinct PASSED [ 68%]
+tests/test_projection.py::test_eroded_dilated_gap_on_a_ramp PASSED       [ 73%]
+tests/test_projection.py::test_robust_fields_have_no_undercuts PASSED    [ 78%]
+tests/test_projection.py::test_robust_field_gradients[0.6-0] PASSED      [ 84%]
+tests/test_projection.py::test_robust_field_gradients[0.5-1] PASSED      [ 89%]
+tests/test_projection.py::test_robust_field_gradients[0.4-2] PASSED      [ 94%]
+tests/test_projection.py::test_mesh_orientation PASSED                   [100%]
+
+============================= 19 passed in 1.01s ==============================
+===== sensitivity_starvation.log =====
+enclosure_top: C = 132.8139 after 389 iterations
+  owner fraction       beta <= 8: 0.109   beta = 64: 0.283
+  non-zero dc fraction beta <= 8: 0.186   beta = 64: 0.351
+enclosure_bottom: C = 118.3072 after 99 iterations
+  owner fraction       beta <= 8: 0.190   beta = 64: 0.327
+  non-zero dc fraction beta <= 8: 0.297   beta = 64: 0.221
+bumper_top: C = 1335.2247 after 302 iterations
+  owner fraction       beta <= 8: 0.291   beta = 64: 0.243
+  non-zero dc fraction beta <= 8: 0.445   beta = 64: 0.254

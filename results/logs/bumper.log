@@ -1,0 +1,10 @@
+skeleton covers 0.0667 of the domain
+bumper, top draw: 302 iterations
+  compliance   1335.2247
+  volume       0.4004   (dilated 0.4004)
+  gray level   0.0000
+  undercuts    0
+  settled      True   last 8: 1335.2 1335.2 1335.2 1335.2 1335.2 1335.2 1335.2 1335.2
+  elements that differ from the mirror image: 290
+  unconstrained baseline 139.8122 -> penalty +855.0%
+  hand-built layout      1263.6361 -> penalty +803.8%

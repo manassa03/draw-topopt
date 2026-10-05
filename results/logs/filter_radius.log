@@ -1,0 +1,16 @@
+﻿unconstrained baselines (density filter)
+                  rmin=1.5    rmin=2.0    rmin=3.0  
+ enclosure 80x20      13.759      14.324      16.409
+   bumper 120x20     139.812     142.081     174.197
+
+MBB 60x20: density filter C = 218.801 (gray 0.269), sensitivity filter C = 203.163 (gray 0.174)
+
+draw-constrained bumper, top draw
+  rmin          C     vol    gray  iters   penalty
+   1.5   1335.225  0.4004  0.0000    302   +855.0%
+   2.0    911.760  0.4000  0.0006    500   +541.7%   mean |change vs previous rmin| = 0.094
+   3.0    876.252  0.4000  0.0042    368   +403.0%   mean |change vs previous rmin| = 0.025
+
+Emin check, enclosure baseline at rmin = 1.5
+  Emin = 1e-06: C = 13.7589
+  Emin = 1e-09: C = 13.7590

@@ -1,0 +1,29 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.0, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\naris\Downloads\draw-topopt - Copy\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\naris\Downloads\draw-topopt - Copy
+configfile: pyproject.toml
+testpaths: tests
+collecting ... collected 19 items
+
+tests/test_fem.py::test_element_stiffness_symmetric_with_three_rigid_body_modes PASSED [  5%]
+tests/test_fem.py::test_handbuild_compliance[enclosure-enclosure_handbuild-126.2328] PASSED [ 10%]
+tests/test_fem.py::test_handbuild_compliance[bumper-bumper_handbuild-1263.6361] PASSED [ 15%]
+tests/test_fem.py::test_cantilever_close_to_beam_theory PASSED           [ 21%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[1.0-top] PASSED [ 26%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[1.0-bottom] PASSED [ 31%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[8.0-top] PASSED [ 36%]
+tests/test_gradients.py::test_sensitivities_match_finite_differences[8.0-bottom] PASSED [ 42%]
+tests/test_projection.py::test_gray_level_drops_with_beta PASSED         [ 47%]
+tests/test_projection.py::test_projection_removes_undercuts PASSED       [ 52%]
+tests/test_projection.py::test_feasible_binary_design_is_unchanged PASSED [ 57%]
+tests/test_projection.py::test_projection_gradient_matches_finite_difference PASSED [ 63%]
+tests/test_projection.py::test_robust_fields_are_ordered_and_distinct PASSED [ 68%]
+tests/test_projection.py::test_eroded_dilated_gap_on_a_ramp PASSED       [ 73%]
+tests/test_projection.py::test_robust_fields_have_no_undercuts PASSED    [ 78%]
+tests/test_projection.py::test_robust_field_gradients[0.6-0] PASSED      [ 84%]
+tests/test_projection.py::test_robust_field_gradients[0.5-1] PASSED      [ 89%]
+tests/test_projection.py::test_robust_field_gradients[0.4-2] PASSED      [ 94%]
+tests/test_projection.py::test_mesh_orientation PASSED                   [100%]
+
+============================= 19 passed in 1.01s ==============================

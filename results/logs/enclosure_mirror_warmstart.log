@@ -1,0 +1,5 @@
+top draw (cold)          C = 132.8139
+bottom draw (warm, b=64) C = 132.8145  after 2 iterations
+  difference 0.0005%, max |bottom - flip(top)| = 3.71e-04
+  volume 0.4019, gray 0.0000, undercuts 0
+mirror holds

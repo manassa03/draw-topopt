@@ -1,0 +1,10 @@
+{
+  "C_optimum": 1335.2246791657562,
+  "asymmetric_elements": 290,
+  "Rx_pin": -1.5224266292079847e-10,
+  "Ry_pin": 0.499999999967363,
+  "Ry_roller": 0.500000000004831,
+  "C_symmetrized": 1713.9365461336022,
+  "volume_symmetrized": 0.34,
+  "undercuts_symmetrized": 0
+}

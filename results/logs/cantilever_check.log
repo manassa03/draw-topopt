@@ -1,0 +1,10 @@
+cantilever 200x20 (L/h = 10)
+  Euler-Bernoulli      4000.00
+  Timoshenko           4031.20
+  FE, mid-height       4018.48   (+0.46% vs EB, -0.32% vs Timoshenko)
+  FE, edge average     4018.73   (+0.47% vs EB)
+cantilever 240x20 (L/h = 12)
+  Euler-Bernoulli      6912.00
+  Timoshenko           6949.44
+  FE, mid-height       6929.97   (+0.26% vs EB, -0.28% vs Timoshenko)
+  FE, edge average     6930.21   (+0.26% vs EB)

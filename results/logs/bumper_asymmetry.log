@@ -1,0 +1,11 @@
+﻿optimum: C = 1335.2247, vol = 0.4004, asymmetric elements = 290
+
+support reactions
+  pin:    Rx = -1.52e-10   Ry = 0.500000
+  roller:                 Ry = 0.500000
+  sum Ry = 1.000000 (applied 1.000000)
+
+symmetrized design
+  C = 1713.9365 vs 1335.2247 (+28.36%), vol = 0.3400 (budget 0.4004), undercuts = 0
+
+Rx ~ 0, so the supports aren't the cause; this crude symmetrization just isn't as good as an optimized symmetric design would be.

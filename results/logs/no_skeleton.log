@@ -1,0 +1,4 @@
+enclosure, with_skeleton: C = 1.3281e+02, vol = 0.4019, gray = 0.0000, undercuts = 0, load path connected = True, settled = False
+enclosure, no_skeleton: C = 1.1307e+02, vol = 0.4000, gray = 0.0000, undercuts = 0, load path connected = True, settled = True
+bumper, with_skeleton: C = 1.3352e+03, vol = 0.4004, gray = 0.0000, undercuts = 0, load path connected = True, settled = True
+bumper, no_skeleton: C = 7.8982e+02, vol = 0.4000, gray = 0.0000, undercuts = 0, load path connected = True, settled = True

@@ -1,0 +1,8 @@
+enclosure, top draw: 389 iterations
+  compliance   132.8139
+  volume       0.4019   (dilated 0.4019)
+  gray level   0.0000
+  undercuts    0
+  settled      False   last 8: 132.72 132.82 132.54 131.48 132.81 132.81 132.81 132.81
+  unconstrained baseline 13.7590 -> penalty +865.3%
+  hand-built layout      126.2328 -> penalty +817.5%

@@ -1,0 +1,19 @@
+control gradient check (16x6, beta = 8): relative error 1.11e-06 (OK)
+
+enclosure
+  baseline (classic SIMP)       C =    13.7590   gray 0.1585
+  control (pipeline, no draw)   C =    16.5342   vol 0.4007  gray 0.0007  undercuts 78  settled False
+  draw-constrained              C =   132.8139   vol 0.4019  gray 0.0000  undercuts 0  settled False
+  hand-built                    C =   126.2328
+  control vs baseline      +20.2%  (skeleton + projection)
+  draw vs control         +703.3%  (draw operator alone)
+  draw vs baseline        +865.3%  (total)
+
+bumper
+  baseline (classic SIMP)       C =   139.8122   gray 0.2579
+  control (pipeline, no draw)   C = 14196.5409   vol 0.3999  gray 0.0039  undercuts 480  settled True
+  draw-constrained              C =  1335.2247   vol 0.4004  gray 0.0000  undercuts 0  settled True
+  hand-built                    C =  1263.6361
+  control vs baseline   +10054.0%  (skeleton + projection)
+  draw vs control          -90.6%  (draw operator alone)
+  draw vs baseline        +855.0%  (total)

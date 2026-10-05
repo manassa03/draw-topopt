@@ -1,0 +1,8 @@
+uniform start, both fields in the draw frame:
+  max |filtered_top - filtered_bottom| = 2.2e-16
+  columns whose running-min owner differs: 76 of 80
+
+top draw     C = 132.8139  vol = 0.4019  gray = 0.0000
+bottom draw  C = 118.3072  vol = 0.4000  gray = 0.0000  undercuts = 0
+difference 10.92%, 47 elements differ from the mirrored top design
+history gap: iteration 1 4.3e-12, iteration 2 7.8e-02

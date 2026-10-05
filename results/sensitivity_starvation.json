@@ -1,0 +1,3970 @@
+{
+  "enclosure_top": {
+    "compliance": 132.81388233865175,
+    "iterations": 389,
+    "log": [
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1652046783625731,
+        "nonzero_dc_fraction": 0.2777777777777778
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11915204678362573,
+        "nonzero_dc_fraction": 0.18128654970760233
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1162280701754386,
+        "nonzero_dc_fraction": 0.17763157894736842
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11476608187134503,
+        "nonzero_dc_fraction": 0.17543859649122806
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11403508771929824,
+        "nonzero_dc_fraction": 0.1739766081871345
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11403508771929824,
+        "nonzero_dc_fraction": 0.1739766081871345
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1154970760233918,
+        "nonzero_dc_fraction": 0.17616959064327486
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11403508771929824,
+        "nonzero_dc_fraction": 0.1739766081871345
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11476608187134503,
+        "nonzero_dc_fraction": 0.17543859649122806
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11403508771929824,
+        "nonzero_dc_fraction": 0.17543859649122806
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11403508771929824,
+        "nonzero_dc_fraction": 0.17543859649122806
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.08991228070175439,
+        "nonzero_dc_fraction": 0.15350877192982457
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.12207602339181287
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.13596491228070176
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.12207602339181287
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.059941520467836254,
+        "nonzero_dc_fraction": 0.1206140350877193
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06798245614035088,
+        "nonzero_dc_fraction": 0.13230994152046785
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.059941520467836254,
+        "nonzero_dc_fraction": 0.1206140350877193
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.062134502923976605,
+        "nonzero_dc_fraction": 0.12426900584795321
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.12207602339181287
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.059941520467836254,
+        "nonzero_dc_fraction": 0.1206140350877193
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06140350877192982,
+        "nonzero_dc_fraction": 0.12280701754385964
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.05921052631578947,
+        "nonzero_dc_fraction": 0.11988304093567251
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.059941520467836254,
+        "nonzero_dc_fraction": 0.12134502923976608
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.12353801169590643
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.059941520467836254,
+        "nonzero_dc_fraction": 0.12134502923976608
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06140350877192982,
+        "nonzero_dc_fraction": 0.125
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06140350877192982,
+        "nonzero_dc_fraction": 0.125
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.12353801169590643
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.059941520467836254,
+        "nonzero_dc_fraction": 0.12134502923976608
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.12353801169590643
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06140350877192982,
+        "nonzero_dc_fraction": 0.125
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06140350877192982,
+        "nonzero_dc_fraction": 0.125
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06140350877192982,
+        "nonzero_dc_fraction": 0.12426900584795321
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.062134502923976605,
+        "nonzero_dc_fraction": 0.12573099415204678
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.12646198830409358
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.12938596491228072
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.12938596491228072
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13084795321637427
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13084795321637427
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12938596491228072
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13084795321637427
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12646198830409358
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12646198830409358
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.062134502923976605,
+        "nonzero_dc_fraction": 0.12573099415204678
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.062134502923976605,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.1286549707602339
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.12280701754385964
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.1286549707602339
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12792397660818713
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.1286549707602339
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.1286549707602339
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.062134502923976605,
+        "nonzero_dc_fraction": 0.12646198830409358
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12792397660818713
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.1286549707602339
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.1286549707602339
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.12792397660818713
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.1286549707602339
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12938596491228072
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12938596491228072
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13084795321637427
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13450292397660818
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.08625730994152046,
+        "nonzero_dc_fraction": 0.19517543859649122
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06944444444444445,
+        "nonzero_dc_fraction": 0.14839181286549707
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.1337719298245614
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06286549707602339,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06798245614035088,
+        "nonzero_dc_fraction": 0.14619883040935672
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06505847953216375,
+        "nonzero_dc_fraction": 0.13157894736842105
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06432748538011696,
+        "nonzero_dc_fraction": 0.1301169590643275
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13596491228070176
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06944444444444445,
+        "nonzero_dc_fraction": 0.14327485380116958
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13523391812865498
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13304093567251463
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13523391812865498
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.13230994152046785
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06798245614035088,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13523391812865498
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13450292397660818
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06944444444444445,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13596491228070176
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06725146198830409,
+        "nonzero_dc_fraction": 0.13523391812865498
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06798245614035088,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13523391812865498
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06652046783625731,
+        "nonzero_dc_fraction": 0.13523391812865498
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06944444444444445,
+        "nonzero_dc_fraction": 0.1388888888888889
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.14035087719298245
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13815789473684212
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06578947368421052,
+        "nonzero_dc_fraction": 0.1337719298245614
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.13961988304093567
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.1388888888888889
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.13961988304093567
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.1388888888888889
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13596491228070176
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07090643274853801,
+        "nonzero_dc_fraction": 0.14035087719298245
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.1388888888888889
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.1388888888888889
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07090643274853801,
+        "nonzero_dc_fraction": 0.14035087719298245
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07017543859649122,
+        "nonzero_dc_fraction": 0.1388888888888889
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06944444444444445,
+        "nonzero_dc_fraction": 0.13742690058479531
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07090643274853801,
+        "nonzero_dc_fraction": 0.14035087719298245
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07090643274853801,
+        "nonzero_dc_fraction": 0.14035087719298245
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.13596491228070176
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07090643274853801,
+        "nonzero_dc_fraction": 0.14035087719298245
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07236842105263158,
+        "nonzero_dc_fraction": 0.14327485380116958
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07163742690058479,
+        "nonzero_dc_fraction": 0.14181286549707603
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07090643274853801,
+        "nonzero_dc_fraction": 0.14035087719298245
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.07236842105263158,
+        "nonzero_dc_fraction": 0.14327485380116958
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.09064327485380116,
+        "nonzero_dc_fraction": 0.19956140350877194
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.08698830409356725,
+        "nonzero_dc_fraction": 0.19078947368421054
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.10307017543859649,
+        "nonzero_dc_fraction": 0.27046783625730997
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.12646198830409358,
+        "nonzero_dc_fraction": 0.2741228070175439
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.1871345029239766,
+        "nonzero_dc_fraction": 0.39766081871345027
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2097953216374269,
+        "nonzero_dc_fraction": 0.41154970760233917
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.23026315789473684,
+        "nonzero_dc_fraction": 0.41154970760233917
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.22807017543859648,
+        "nonzero_dc_fraction": 0.4057017543859649
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.25292397660818716,
+        "nonzero_dc_fraction": 0.3969298245614035
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2507309941520468,
+        "nonzero_dc_fraction": 0.38596491228070173
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2638888888888889,
+        "nonzero_dc_fraction": 0.40350877192982454
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.25146198830409355,
+        "nonzero_dc_fraction": 0.39108187134502925
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.26608187134502925,
+        "nonzero_dc_fraction": 0.3969298245614035
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.27046783625730997,
+        "nonzero_dc_fraction": 0.40350877192982454
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2821637426900585,
+        "nonzero_dc_fraction": 0.4195906432748538
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2887426900584795,
+        "nonzero_dc_fraction": 0.42616959064327486
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.31140350877192985,
+        "nonzero_dc_fraction": 0.41739766081871343
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2989766081871345,
+        "nonzero_dc_fraction": 0.41228070175438597
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3128654970760234,
+        "nonzero_dc_fraction": 0.4144736842105263
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2909356725146199,
+        "nonzero_dc_fraction": 0.3991228070175439
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.29751461988304095,
+        "nonzero_dc_fraction": 0.4027777777777778
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3055555555555556,
+        "nonzero_dc_fraction": 0.4108187134502924
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.28654970760233917,
+        "nonzero_dc_fraction": 0.40862573099415206
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3260233918128655,
+        "nonzero_dc_fraction": 0.4371345029239766
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.29678362573099415,
+        "nonzero_dc_fraction": 0.3969298245614035
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.33114035087719296,
+        "nonzero_dc_fraction": 0.42105263157894735
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.29312865497076024,
+        "nonzero_dc_fraction": 0.391812865497076
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3304093567251462,
+        "nonzero_dc_fraction": 0.4144736842105263
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2953216374269006,
+        "nonzero_dc_fraction": 0.3969298245614035
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.33260233918128657,
+        "nonzero_dc_fraction": 0.41885964912280704
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2989766081871345,
+        "nonzero_dc_fraction": 0.4071637426900585
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3333333333333333,
+        "nonzero_dc_fraction": 0.41812865497076024
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.29239766081871343,
+        "nonzero_dc_fraction": 0.40789473684210525
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3391812865497076,
+        "nonzero_dc_fraction": 0.41812865497076024
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2916666666666667,
+        "nonzero_dc_fraction": 0.40423976608187134
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3355263157894737,
+        "nonzero_dc_fraction": 0.41885964912280704
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2894736842105263,
+        "nonzero_dc_fraction": 0.402046783625731
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3406432748538012,
+        "nonzero_dc_fraction": 0.36915204678362573
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.34137426900584794,
+        "nonzero_dc_fraction": 0.37207602339181284
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31432748538011696,
+        "nonzero_dc_fraction": 0.36622807017543857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3201754385964912,
+        "nonzero_dc_fraction": 0.3757309941520468
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3121345029239766,
+        "nonzero_dc_fraction": 0.3684210526315789
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31359649122807015,
+        "nonzero_dc_fraction": 0.3830409356725146
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3121345029239766,
+        "nonzero_dc_fraction": 0.38669590643274854
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.30994152046783624,
+        "nonzero_dc_fraction": 0.39108187134502925
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31067251461988304,
+        "nonzero_dc_fraction": 0.39400584795321636
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.30628654970760233,
+        "nonzero_dc_fraction": 0.3925438596491228
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.30701754385964913,
+        "nonzero_dc_fraction": 0.3932748538011696
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3084795321637427,
+        "nonzero_dc_fraction": 0.39400584795321636
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.30994152046783624,
+        "nonzero_dc_fraction": 0.3932748538011696
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3092105263157895,
+        "nonzero_dc_fraction": 0.38596491228070173
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31067251461988304,
+        "nonzero_dc_fraction": 0.38742690058479534
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3055555555555556,
+        "nonzero_dc_fraction": 0.38084795321637427
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31505847953216376,
+        "nonzero_dc_fraction": 0.385233918128655
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.30043859649122806,
+        "nonzero_dc_fraction": 0.3757309941520468
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3128654970760234,
+        "nonzero_dc_fraction": 0.37353801169590645
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3048245614035088,
+        "nonzero_dc_fraction": 0.37280701754385964
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.3888888888888889
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2887426900584795,
+        "nonzero_dc_fraction": 0.3757309941520468
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2989766081871345,
+        "nonzero_dc_fraction": 0.3830409356725146
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3033625730994152,
+        "nonzero_dc_fraction": 0.3786549707602339
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3048245614035088,
+        "nonzero_dc_fraction": 0.37792397660818716
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.28654970760233917,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3077485380116959,
+        "nonzero_dc_fraction": 0.37353801169590645
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3019005847953216,
+        "nonzero_dc_fraction": 0.37353801169590645
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.29312865497076024,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3055555555555556,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2997076023391813,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.3713450292397661
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3019005847953216,
+        "nonzero_dc_fraction": 0.3706140350877193
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3026315789473684,
+        "nonzero_dc_fraction": 0.3684210526315789
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.36915204678362573
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3019005847953216,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3033625730994152,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.29678362573099415,
+        "nonzero_dc_fraction": 0.375
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.3676900584795322
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2997076023391813,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3026315789473684,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3048245614035088,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.31505847953216376,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.31432748538011696,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3194444444444444,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.31505847953216376,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.30701754385964913,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3121345029239766,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.31359649122807015,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.30701754385964913,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3019005847953216,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29678362573099415,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2997076023391813,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2989766081871345,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29751461988304095,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29751461988304095,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2953216374269006,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29239766081871343,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29239766081871343,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29239766081871343,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2909356725146199,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2843567251461988,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2858187134502924,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2858187134502924,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2880116959064328,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2887426900584795,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2850877192982456,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2880116959064328,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2887426900584795,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2843567251461988,
+        "nonzero_dc_fraction": 0.35891812865497075
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2909356725146199,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2843567251461988,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.29239766081871343,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2850877192982456,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2858187134502924,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2902046783625731,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.28654970760233917,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2894736842105263,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2821637426900585,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2909356725146199,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2843567251461988,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2814327485380117,
+        "nonzero_dc_fraction": 0.347953216374269
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27923976608187134,
+        "nonzero_dc_fraction": 0.3442982456140351
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27850877192982454,
+        "nonzero_dc_fraction": 0.3347953216374269
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.277046783625731,
+        "nonzero_dc_fraction": 0.3304093567251462
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27485380116959063,
+        "nonzero_dc_fraction": 0.3296783625730994
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2741228070175439,
+        "nonzero_dc_fraction": 0.3296783625730994
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27266081871345027,
+        "nonzero_dc_fraction": 0.32821637426900585
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.277046783625731,
+        "nonzero_dc_fraction": 0.33187134502923976
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.277046783625731,
+        "nonzero_dc_fraction": 0.33114035087719296
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27558479532163743,
+        "nonzero_dc_fraction": 0.34210526315789475
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27631578947368424,
+        "nonzero_dc_fraction": 0.34576023391812866
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27850877192982454,
+        "nonzero_dc_fraction": 0.35233918128654973
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.28289473684210525,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.28289473684210525,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.28728070175438597,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2887426900584795,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29312865497076024,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29312865497076024,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29312865497076024,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2945906432748538,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2953216374269006,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2953216374269006,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2997076023391813,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.3019005847953216,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.30043859649122806,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.3026315789473684,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.30116959064327486,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.3026315789473684,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.3033625730994152,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2997076023391813,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.30116959064327486,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.3033625730994152,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29605263157894735,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.3033625730994152,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.3157894736842105,
+        "nonzero_dc_fraction": 0.3567251461988304
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.24415204678362573,
+        "nonzero_dc_fraction": 0.2902046783625731
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.24415204678362573,
+        "nonzero_dc_fraction": 0.3216374269005848
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.25,
+        "nonzero_dc_fraction": 0.3304093567251462
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.25146198830409355,
+        "nonzero_dc_fraction": 0.35453216374269003
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.266812865497076,
+        "nonzero_dc_fraction": 0.2953216374269006
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27266081871345027,
+        "nonzero_dc_fraction": 0.32383040935672514
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.25219298245614036,
+        "nonzero_dc_fraction": 0.31798245614035087
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2543859649122807,
+        "nonzero_dc_fraction": 0.33260233918128657
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2682748538011696,
+        "nonzero_dc_fraction": 0.3347953216374269
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2733918128654971,
+        "nonzero_dc_fraction": 0.3435672514619883
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2543859649122807,
+        "nonzero_dc_fraction": 0.3194444444444444
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2638888888888889,
+        "nonzero_dc_fraction": 0.33771929824561403
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.26535087719298245,
+        "nonzero_dc_fraction": 0.35453216374269003
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2675438596491228,
+        "nonzero_dc_fraction": 0.34941520467836257
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2682748538011696,
+        "nonzero_dc_fraction": 0.34941520467836257
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2682748538011696,
+        "nonzero_dc_fraction": 0.35453216374269003
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.26973684210526316,
+        "nonzero_dc_fraction": 0.35014619883040937
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2711988304093567,
+        "nonzero_dc_fraction": 0.3574561403508772
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2719298245614035,
+        "nonzero_dc_fraction": 0.3574561403508772
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.277046783625731,
+        "nonzero_dc_fraction": 0.35233918128654973
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27046783625730997,
+        "nonzero_dc_fraction": 0.34649122807017546
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2711988304093567,
+        "nonzero_dc_fraction": 0.3603801169590643
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2733918128654971,
+        "nonzero_dc_fraction": 0.3472222222222222
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2719298245614035,
+        "nonzero_dc_fraction": 0.35891812865497075
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2682748538011696,
+        "nonzero_dc_fraction": 0.3442982456140351
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2682748538011696,
+        "nonzero_dc_fraction": 0.3567251461988304
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2711988304093567,
+        "nonzero_dc_fraction": 0.3567251461988304
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2741228070175439,
+        "nonzero_dc_fraction": 0.3347953216374269
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2850877192982456,
+        "nonzero_dc_fraction": 0.35526315789473684
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27923976608187134,
+        "nonzero_dc_fraction": 0.34576023391812866
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2777777777777778,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27997076023391815,
+        "nonzero_dc_fraction": 0.347953216374269
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.28654970760233917,
+        "nonzero_dc_fraction": 0.35233918128654973
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.25877192982456143,
+        "nonzero_dc_fraction": 0.32383040935672514
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.26535087719298245,
+        "nonzero_dc_fraction": 0.3333333333333333
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27997076023391815,
+        "nonzero_dc_fraction": 0.34137426900584794
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2631578947368421,
+        "nonzero_dc_fraction": 0.32821637426900585
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27850877192982454,
+        "nonzero_dc_fraction": 0.34502923976608185
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2733918128654971,
+        "nonzero_dc_fraction": 0.34137426900584794
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.27997076023391815,
+        "nonzero_dc_fraction": 0.35014619883040937
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29312865497076024,
+        "nonzero_dc_fraction": 0.34868421052631576
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2880116959064328,
+        "nonzero_dc_fraction": 0.35014619883040937
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2821637426900585,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2894736842105263,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.3538011695906433
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29239766081871343,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2953216374269006,
+        "nonzero_dc_fraction": 0.3669590643274854
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2858187134502924,
+        "nonzero_dc_fraction": 0.35453216374269003
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2909356725146199,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.28654970760233917,
+        "nonzero_dc_fraction": 0.3574561403508772
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2916666666666667,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29678362573099415,
+        "nonzero_dc_fraction": 0.35891812865497075
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2916666666666667,
+        "nonzero_dc_fraction": 0.36622807017543857
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2916666666666667,
+        "nonzero_dc_fraction": 0.35453216374269003
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.36403508771929827
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29751461988304095,
+        "nonzero_dc_fraction": 0.3611111111111111
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2953216374269006,
+        "nonzero_dc_fraction": 0.35526315789473684
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29605263157894735,
+        "nonzero_dc_fraction": 0.3654970760233918
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29751461988304095,
+        "nonzero_dc_fraction": 0.35891812865497075
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29605263157894735,
+        "nonzero_dc_fraction": 0.36330409356725146
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.2982456140350877,
+        "nonzero_dc_fraction": 0.36622807017543857
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.29751461988304095,
+        "nonzero_dc_fraction": 0.3654970760233918
+      }
+    ]
+  },
+  "enclosure_bottom": {
+    "compliance": 118.30720278864231,
+    "iterations": 99,
+    "log": [
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1111111111111111,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.11038011695906433,
+        "nonzero_dc_fraction": 0.16666666666666666
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.10891812865497076,
+        "nonzero_dc_fraction": 0.16593567251461988
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.10891812865497076,
+        "nonzero_dc_fraction": 0.16593567251461988
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06871345029239766,
+        "nonzero_dc_fraction": 0.12719298245614036
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06067251461988304,
+        "nonzero_dc_fraction": 0.1206140350877193
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.07236842105263158,
+        "nonzero_dc_fraction": 0.1337719298245614
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.05847953216374269,
+        "nonzero_dc_fraction": 0.1162280701754386
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.06140350877192982,
+        "nonzero_dc_fraction": 0.11915204678362573
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.05921052631578947,
+        "nonzero_dc_fraction": 0.11915204678362573
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.0577485380116959,
+        "nonzero_dc_fraction": 0.11476608187134503
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.05701754385964912,
+        "nonzero_dc_fraction": 0.11330409356725146
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.06359649122807018,
+        "nonzero_dc_fraction": 0.12207602339181287
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.05921052631578947,
+        "nonzero_dc_fraction": 0.11842105263157894
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.05701754385964912,
+        "nonzero_dc_fraction": 0.11476608187134503
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.056286549707602336,
+        "nonzero_dc_fraction": 0.11257309941520467
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.056286549707602336,
+        "nonzero_dc_fraction": 0.11257309941520467
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.056286549707602336,
+        "nonzero_dc_fraction": 0.11257309941520467
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.056286549707602336,
+        "nonzero_dc_fraction": 0.11257309941520467
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07309941520467836,
+        "nonzero_dc_fraction": 0.1615497076023392
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.07748538011695906,
+        "nonzero_dc_fraction": 0.17543859649122806
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.11403508771929824,
+        "nonzero_dc_fraction": 0.2536549707602339
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.14692982456140352,
+        "nonzero_dc_fraction": 0.33114035087719296
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.21271929824561403,
+        "nonzero_dc_fraction": 0.4371345029239766
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.24707602339181287,
+        "nonzero_dc_fraction": 0.4546783625730994
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.266812865497076,
+        "nonzero_dc_fraction": 0.4597953216374269
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.266812865497076,
+        "nonzero_dc_fraction": 0.44298245614035087
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2675438596491228,
+        "nonzero_dc_fraction": 0.43201754385964913
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.29385964912280704,
+        "nonzero_dc_fraction": 0.4334795321637427
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.26900584795321636,
+        "nonzero_dc_fraction": 0.40497076023391815
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27558479532163743,
+        "nonzero_dc_fraction": 0.3823099415204678
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.25146198830409355,
+        "nonzero_dc_fraction": 0.38377192982456143
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27923976608187134,
+        "nonzero_dc_fraction": 0.3925438596491228
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.26096491228070173,
+        "nonzero_dc_fraction": 0.3932748538011696
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.26535087719298245,
+        "nonzero_dc_fraction": 0.38377192982456143
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2565789473684211,
+        "nonzero_dc_fraction": 0.39108187134502925
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2807017543859649,
+        "nonzero_dc_fraction": 0.40423976608187134
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.26096491228070173,
+        "nonzero_dc_fraction": 0.3881578947368421
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2880116959064328,
+        "nonzero_dc_fraction": 0.4064327485380117
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.24561403508771928,
+        "nonzero_dc_fraction": 0.375
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2989766081871345,
+        "nonzero_dc_fraction": 0.4071637426900585
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.23976608187134502,
+        "nonzero_dc_fraction": 0.3713450292397661
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.29312865497076024,
+        "nonzero_dc_fraction": 0.4093567251461988
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.23538011695906433,
+        "nonzero_dc_fraction": 0.3618421052631579
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2894736842105263,
+        "nonzero_dc_fraction": 0.40350877192982454
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2361111111111111,
+        "nonzero_dc_fraction": 0.36622807017543857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2843567251461988,
+        "nonzero_dc_fraction": 0.40131578947368424
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.23684210526315788,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.266812865497076,
+        "nonzero_dc_fraction": 0.38742690058479534
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.23830409356725146,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.26608187134502925,
+        "nonzero_dc_fraction": 0.39400584795321636
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.23684210526315788,
+        "nonzero_dc_fraction": 0.36622807017543857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.25,
+        "nonzero_dc_fraction": 0.375
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.23684210526315788,
+        "nonzero_dc_fraction": 0.3676900584795322
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2543859649122807,
+        "nonzero_dc_fraction": 0.37792397660818716
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.24269005847953215,
+        "nonzero_dc_fraction": 0.37792397660818716
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.24926900584795322,
+        "nonzero_dc_fraction": 0.3713450292397661
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2536549707602339,
+        "nonzero_dc_fraction": 0.3830409356725146
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.25292397660818716,
+        "nonzero_dc_fraction": 0.3815789473684211
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.24561403508771928,
+        "nonzero_dc_fraction": 0.3815789473684211
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.24926900584795322,
+        "nonzero_dc_fraction": 0.37353801169590645
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.25584795321637427,
+        "nonzero_dc_fraction": 0.385233918128655
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.24853801169590642,
+        "nonzero_dc_fraction": 0.36988304093567254
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.26900584795321636,
+        "nonzero_dc_fraction": 0.3991228070175439
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2463450292397661,
+        "nonzero_dc_fraction": 0.37353801169590645
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.26096491228070173,
+        "nonzero_dc_fraction": 0.39035087719298245
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2448830409356725,
+        "nonzero_dc_fraction": 0.3684210526315789
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27631578947368424,
+        "nonzero_dc_fraction": 0.39985380116959063
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2412280701754386,
+        "nonzero_dc_fraction": 0.3684210526315789
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.23684210526315788,
+        "nonzero_dc_fraction": 0.3530701754385965
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2646198830409357,
+        "nonzero_dc_fraction": 0.3252923976608187
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.266812865497076,
+        "nonzero_dc_fraction": 0.34868421052631576
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2741228070175439,
+        "nonzero_dc_fraction": 0.35599415204678364
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2821637426900585,
+        "nonzero_dc_fraction": 0.36257309941520466
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2902046783625731,
+        "nonzero_dc_fraction": 0.3654970760233918
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.29605263157894735,
+        "nonzero_dc_fraction": 0.3669590643274854
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.30043859649122806,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3026315789473684,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.30628654970760233,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3084795321637427,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3128654970760234,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.31359649122807015,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3194444444444444,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.32090643274853803,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.32090643274853803,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3223684210526316,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3252923976608187,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3252923976608187,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3260233918128655,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3267543859649123,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.3267543859649123,
+        "nonzero_dc_fraction": 0.35964912280701755
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.32748538011695905,
+        "nonzero_dc_fraction": 0.22149122807017543
+      }
+    ]
+  },
+  "bumper_top": {
+    "compliance": 1335.2246791657562,
+    "iterations": 302,
+    "log": [
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.1,
+        "nonzero_dc_fraction": 0.2017857142857143
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.10535714285714286,
+        "nonzero_dc_fraction": 0.15892857142857142
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.13392857142857142,
+        "nonzero_dc_fraction": 0.20357142857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.16517857142857142,
+        "nonzero_dc_fraction": 0.24196428571428572
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.16339285714285715,
+        "nonzero_dc_fraction": 0.24017857142857144
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.16071428571428573,
+        "nonzero_dc_fraction": 0.24017857142857144
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.15982142857142856,
+        "nonzero_dc_fraction": 0.23482142857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.16428571428571428,
+        "nonzero_dc_fraction": 0.2517857142857143
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.16964285714285715,
+        "nonzero_dc_fraction": 0.26339285714285715
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.16339285714285715,
+        "nonzero_dc_fraction": 0.24821428571428572
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.15892857142857142,
+        "nonzero_dc_fraction": 0.24107142857142858
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.18125,
+        "nonzero_dc_fraction": 0.2794642857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.19464285714285715,
+        "nonzero_dc_fraction": 0.33035714285714285
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.22589285714285715,
+        "nonzero_dc_fraction": 0.40982142857142856
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2375,
+        "nonzero_dc_fraction": 0.41517857142857145
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2642857142857143,
+        "nonzero_dc_fraction": 0.4294642857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2580357142857143,
+        "nonzero_dc_fraction": 0.4517857142857143
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.24107142857142858,
+        "nonzero_dc_fraction": 0.41875
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.25535714285714284,
+        "nonzero_dc_fraction": 0.42232142857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2571428571428571,
+        "nonzero_dc_fraction": 0.44375
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2625,
+        "nonzero_dc_fraction": 0.44910714285714287
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.26339285714285715,
+        "nonzero_dc_fraction": 0.4616071428571429
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2642857142857143,
+        "nonzero_dc_fraction": 0.47410714285714284
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2875,
+        "nonzero_dc_fraction": 0.5035714285714286
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.3026785714285714,
+        "nonzero_dc_fraction": 0.5151785714285714
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.30357142857142855,
+        "nonzero_dc_fraction": 0.5044642857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.31875,
+        "nonzero_dc_fraction": 0.5267857142857143
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29375,
+        "nonzero_dc_fraction": 0.49107142857142855
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2875,
+        "nonzero_dc_fraction": 0.49642857142857144
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.27232142857142855,
+        "nonzero_dc_fraction": 0.46964285714285714
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2875,
+        "nonzero_dc_fraction": 0.48035714285714287
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2794642857142857,
+        "nonzero_dc_fraction": 0.4785714285714286
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.4830357142857143
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29196428571428573,
+        "nonzero_dc_fraction": 0.48482142857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2883928571428571,
+        "nonzero_dc_fraction": 0.48928571428571427
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2875,
+        "nonzero_dc_fraction": 0.475
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29642857142857143,
+        "nonzero_dc_fraction": 0.5053571428571428
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2883928571428571,
+        "nonzero_dc_fraction": 0.48035714285714287
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2892857142857143,
+        "nonzero_dc_fraction": 0.48125
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2892857142857143,
+        "nonzero_dc_fraction": 0.5008928571428571
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29196428571428573,
+        "nonzero_dc_fraction": 0.48214285714285715
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2875,
+        "nonzero_dc_fraction": 0.4758928571428571
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29375,
+        "nonzero_dc_fraction": 0.48125
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29196428571428573,
+        "nonzero_dc_fraction": 0.47946428571428573
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29732142857142857,
+        "nonzero_dc_fraction": 0.48482142857142857
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.2955357142857143,
+        "nonzero_dc_fraction": 0.48214285714285715
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29285714285714287,
+        "nonzero_dc_fraction": 0.48214285714285715
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29375,
+        "nonzero_dc_fraction": 0.47767857142857145
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.3,
+        "nonzero_dc_fraction": 0.49375
+      },
+      {
+        "beta": 1.0,
+        "owner_fraction": 0.29464285714285715,
+        "nonzero_dc_fraction": 0.48125
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.29732142857142857,
+        "nonzero_dc_fraction": 0.48392857142857143
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.29910714285714285,
+        "nonzero_dc_fraction": 0.49464285714285716
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.29732142857142857,
+        "nonzero_dc_fraction": 0.48482142857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.29464285714285715,
+        "nonzero_dc_fraction": 0.4857142857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28660714285714284,
+        "nonzero_dc_fraction": 0.46875
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2910714285714286,
+        "nonzero_dc_fraction": 0.4732142857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.29732142857142857,
+        "nonzero_dc_fraction": 0.4830357142857143
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2883928571428571,
+        "nonzero_dc_fraction": 0.4732142857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.46339285714285716
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28348214285714285,
+        "nonzero_dc_fraction": 0.4763392857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.275,
+        "nonzero_dc_fraction": 0.4544642857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2830357142857143,
+        "nonzero_dc_fraction": 0.4607142857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2825892857142857,
+        "nonzero_dc_fraction": 0.47098214285714285
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2794642857142857,
+        "nonzero_dc_fraction": 0.47098214285714285
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.4674107142857143
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.278125,
+        "nonzero_dc_fraction": 0.471875
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27633928571428573,
+        "nonzero_dc_fraction": 0.45535714285714285
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27767857142857144,
+        "nonzero_dc_fraction": 0.45982142857142855
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.46651785714285715
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.278125,
+        "nonzero_dc_fraction": 0.4607142857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27901785714285715,
+        "nonzero_dc_fraction": 0.47276785714285713
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2736607142857143,
+        "nonzero_dc_fraction": 0.4558035714285714
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28482142857142856,
+        "nonzero_dc_fraction": 0.478125
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.4700892857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.4660714285714286
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.47232142857142856
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27767857142857144,
+        "nonzero_dc_fraction": 0.46964285714285714
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.278125,
+        "nonzero_dc_fraction": 0.4589285714285714
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2857142857142857,
+        "nonzero_dc_fraction": 0.4763392857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2785714285714286,
+        "nonzero_dc_fraction": 0.46651785714285715
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27723214285714287,
+        "nonzero_dc_fraction": 0.46964285714285714
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2767857142857143,
+        "nonzero_dc_fraction": 0.46205357142857145
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.4732142857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27723214285714287,
+        "nonzero_dc_fraction": 0.4669642857142857
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2799107142857143,
+        "nonzero_dc_fraction": 0.4629464285714286
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27901785714285715,
+        "nonzero_dc_fraction": 0.46473214285714287
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27767857142857144,
+        "nonzero_dc_fraction": 0.465625
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27901785714285715,
+        "nonzero_dc_fraction": 0.46339285714285716
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.47098214285714285
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27633928571428573,
+        "nonzero_dc_fraction": 0.4642857142857143
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.465625
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.284375,
+        "nonzero_dc_fraction": 0.47410714285714284
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.271875,
+        "nonzero_dc_fraction": 0.45535714285714285
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2799107142857143,
+        "nonzero_dc_fraction": 0.4629464285714286
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2839285714285714,
+        "nonzero_dc_fraction": 0.47098214285714285
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.27767857142857144,
+        "nonzero_dc_fraction": 0.4745535714285714
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.2830357142857143,
+        "nonzero_dc_fraction": 0.46964285714285714
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.4674107142857143
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28035714285714286,
+        "nonzero_dc_fraction": 0.475
+      },
+      {
+        "beta": 2.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.46964285714285714
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27589285714285716,
+        "nonzero_dc_fraction": 0.42723214285714284
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2799107142857143,
+        "nonzero_dc_fraction": 0.415625
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28035714285714286,
+        "nonzero_dc_fraction": 0.42276785714285714
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27901785714285715,
+        "nonzero_dc_fraction": 0.4174107142857143
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.42589285714285713
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.41875
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27589285714285716,
+        "nonzero_dc_fraction": 0.4147321428571429
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2799107142857143,
+        "nonzero_dc_fraction": 0.421875
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2825892857142857,
+        "nonzero_dc_fraction": 0.425
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27723214285714287,
+        "nonzero_dc_fraction": 0.40669642857142857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2839285714285714,
+        "nonzero_dc_fraction": 0.4450892857142857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.4160714285714286
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27633928571428573,
+        "nonzero_dc_fraction": 0.41651785714285716
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2870535714285714,
+        "nonzero_dc_fraction": 0.43348214285714287
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.4147321428571429
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.42678571428571427
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.41964285714285715
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.42410714285714285
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28348214285714285,
+        "nonzero_dc_fraction": 0.42276785714285714
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2785714285714286,
+        "nonzero_dc_fraction": 0.4236607142857143
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.4160714285714286
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.425
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2830357142857143,
+        "nonzero_dc_fraction": 0.41830357142857144
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2794642857142857,
+        "nonzero_dc_fraction": 0.41830357142857144
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.4200892857142857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.4245535714285714
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.41294642857142855
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.4205357142857143
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.43348214285714287
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.27901785714285715,
+        "nonzero_dc_fraction": 0.41830357142857144
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.284375,
+        "nonzero_dc_fraction": 0.42276785714285714
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.41696428571428573
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.421875
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28214285714285714,
+        "nonzero_dc_fraction": 0.41875
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.42544642857142856
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.41830357142857144
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.4263392857142857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.41294642857142855
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2794642857142857,
+        "nonzero_dc_fraction": 0.409375
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2830357142857143,
+        "nonzero_dc_fraction": 0.4361607142857143
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2785714285714286,
+        "nonzero_dc_fraction": 0.4160714285714286
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.4263392857142857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2825892857142857,
+        "nonzero_dc_fraction": 0.425
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.41785714285714287
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.41785714285714287
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28125,
+        "nonzero_dc_fraction": 0.42142857142857143
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.284375,
+        "nonzero_dc_fraction": 0.42678571428571427
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.2754464285714286,
+        "nonzero_dc_fraction": 0.4138392857142857
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28348214285714285,
+        "nonzero_dc_fraction": 0.43214285714285716
+      },
+      {
+        "beta": 4.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.41294642857142855
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.28080357142857143,
+        "nonzero_dc_fraction": 0.40133928571428573
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.2767857142857143,
+        "nonzero_dc_fraction": 0.40223214285714287
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.28482142857142856,
+        "nonzero_dc_fraction": 0.41026785714285713
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.28035714285714286,
+        "nonzero_dc_fraction": 0.409375
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.28616071428571427,
+        "nonzero_dc_fraction": 0.42142857142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.28660714285714284,
+        "nonzero_dc_fraction": 0.4200892857142857
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.296875,
+        "nonzero_dc_fraction": 0.4611607142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.29910714285714285,
+        "nonzero_dc_fraction": 0.46339285714285716
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.29732142857142857,
+        "nonzero_dc_fraction": 0.44910714285714287
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.30580357142857145,
+        "nonzero_dc_fraction": 0.5026785714285714
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.30625,
+        "nonzero_dc_fraction": 0.453125
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.29776785714285714,
+        "nonzero_dc_fraction": 0.45535714285714285
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.30044642857142856,
+        "nonzero_dc_fraction": 0.4361607142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3026785714285714,
+        "nonzero_dc_fraction": 0.44910714285714287
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.30178571428571427,
+        "nonzero_dc_fraction": 0.4450892857142857
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.30178571428571427,
+        "nonzero_dc_fraction": 0.44910714285714287
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.30625,
+        "nonzero_dc_fraction": 0.4392857142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.30714285714285716,
+        "nonzero_dc_fraction": 0.4433035714285714
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.31339285714285714,
+        "nonzero_dc_fraction": 0.44955357142857144
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.31294642857142857,
+        "nonzero_dc_fraction": 0.43839285714285714
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3236607142857143,
+        "nonzero_dc_fraction": 0.4419642857142857
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.32767857142857143,
+        "nonzero_dc_fraction": 0.4629464285714286
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.32857142857142857,
+        "nonzero_dc_fraction": 0.4558035714285714
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.33125,
+        "nonzero_dc_fraction": 0.4705357142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.32857142857142857,
+        "nonzero_dc_fraction": 0.4433035714285714
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.34017857142857144,
+        "nonzero_dc_fraction": 0.4616071428571429
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.34732142857142856,
+        "nonzero_dc_fraction": 0.465625
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3495535714285714,
+        "nonzero_dc_fraction": 0.47366071428571427
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3638392857142857,
+        "nonzero_dc_fraction": 0.47276785714285713
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.37410714285714286,
+        "nonzero_dc_fraction": 0.49910714285714286
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.3767857142857143,
+        "nonzero_dc_fraction": 0.48973214285714284
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.38526785714285716,
+        "nonzero_dc_fraction": 0.4986607142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.396875,
+        "nonzero_dc_fraction": 0.5098214285714285
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.4,
+        "nonzero_dc_fraction": 0.5004464285714286
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.40625,
+        "nonzero_dc_fraction": 0.5285714285714286
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.40625,
+        "nonzero_dc_fraction": 0.5200892857142857
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.41517857142857145,
+        "nonzero_dc_fraction": 0.5419642857142857
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.41875,
+        "nonzero_dc_fraction": 0.5236607142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.4174107142857143,
+        "nonzero_dc_fraction": 0.5633928571428571
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.41964285714285715,
+        "nonzero_dc_fraction": 0.5276785714285714
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.41651785714285716,
+        "nonzero_dc_fraction": 0.5379464285714286
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.415625,
+        "nonzero_dc_fraction": 0.49330357142857145
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.42142857142857143,
+        "nonzero_dc_fraction": 0.5133928571428571
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.41830357142857144,
+        "nonzero_dc_fraction": 0.5196428571428572
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.4303571428571429,
+        "nonzero_dc_fraction": 0.5379464285714286
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.42544642857142856,
+        "nonzero_dc_fraction": 0.521875
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.42589285714285713,
+        "nonzero_dc_fraction": 0.4955357142857143
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.41964285714285715,
+        "nonzero_dc_fraction": 0.48794642857142856
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.4191964285714286,
+        "nonzero_dc_fraction": 0.5022321428571429
+      },
+      {
+        "beta": 8.0,
+        "owner_fraction": 0.41785714285714287,
+        "nonzero_dc_fraction": 0.48973214285714284
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.41116071428571427,
+        "nonzero_dc_fraction": 0.4174107142857143
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31339285714285714,
+        "nonzero_dc_fraction": 0.3566964285714286
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31026785714285715,
+        "nonzero_dc_fraction": 0.36026785714285714
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31205357142857143,
+        "nonzero_dc_fraction": 0.37901785714285713
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2910714285714286,
+        "nonzero_dc_fraction": 0.35446428571428573
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2794642857142857,
+        "nonzero_dc_fraction": 0.34598214285714285
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.28616071428571427,
+        "nonzero_dc_fraction": 0.35
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2888392857142857,
+        "nonzero_dc_fraction": 0.35535714285714287
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2941964285714286,
+        "nonzero_dc_fraction": 0.35580357142857144
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.2995535714285714,
+        "nonzero_dc_fraction": 0.36830357142857145
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.31160714285714286,
+        "nonzero_dc_fraction": 0.3924107142857143
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3169642857142857,
+        "nonzero_dc_fraction": 0.40714285714285714
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3263392857142857,
+        "nonzero_dc_fraction": 0.42410714285714285
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.33125,
+        "nonzero_dc_fraction": 0.4263392857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.33705357142857145,
+        "nonzero_dc_fraction": 0.42857142857142855
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.340625,
+        "nonzero_dc_fraction": 0.425
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3361607142857143,
+        "nonzero_dc_fraction": 0.415625
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.33303571428571427,
+        "nonzero_dc_fraction": 0.4120535714285714
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3517857142857143,
+        "nonzero_dc_fraction": 0.43348214285714287
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3575892857142857,
+        "nonzero_dc_fraction": 0.43526785714285715
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.36875,
+        "nonzero_dc_fraction": 0.43794642857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.36026785714285714,
+        "nonzero_dc_fraction": 0.440625
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3638392857142857,
+        "nonzero_dc_fraction": 0.4316964285714286
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.36428571428571427,
+        "nonzero_dc_fraction": 0.4294642857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35580357142857144,
+        "nonzero_dc_fraction": 0.41696428571428573
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3508928571428571,
+        "nonzero_dc_fraction": 0.421875
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.36160714285714285,
+        "nonzero_dc_fraction": 0.42142857142857143
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35580357142857144,
+        "nonzero_dc_fraction": 0.4205357142857143
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.34732142857142856,
+        "nonzero_dc_fraction": 0.4107142857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3575892857142857,
+        "nonzero_dc_fraction": 0.42276785714285714
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.34866071428571427,
+        "nonzero_dc_fraction": 0.415625
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.36026785714285714,
+        "nonzero_dc_fraction": 0.4245535714285714
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3580357142857143,
+        "nonzero_dc_fraction": 0.4232142857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35982142857142857,
+        "nonzero_dc_fraction": 0.428125
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3580357142857143,
+        "nonzero_dc_fraction": 0.42589285714285713
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3566964285714286,
+        "nonzero_dc_fraction": 0.42678571428571427
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35982142857142857,
+        "nonzero_dc_fraction": 0.4276785714285714
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3611607142857143,
+        "nonzero_dc_fraction": 0.4299107142857143
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.36294642857142856,
+        "nonzero_dc_fraction": 0.4294642857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.353125,
+        "nonzero_dc_fraction": 0.42276785714285714
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35892857142857143,
+        "nonzero_dc_fraction": 0.4294642857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.359375,
+        "nonzero_dc_fraction": 0.4263392857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35580357142857144,
+        "nonzero_dc_fraction": 0.42857142857142855
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35714285714285715,
+        "nonzero_dc_fraction": 0.4232142857142857
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35267857142857145,
+        "nonzero_dc_fraction": 0.4290178571428571
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35714285714285715,
+        "nonzero_dc_fraction": 0.4299107142857143
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3517857142857143,
+        "nonzero_dc_fraction": 0.4290178571428571
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.3566964285714286,
+        "nonzero_dc_fraction": 0.4290178571428571
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35580357142857144,
+        "nonzero_dc_fraction": 0.428125
+      },
+      {
+        "beta": 16.0,
+        "owner_fraction": 0.35580357142857144,
+        "nonzero_dc_fraction": 0.42678571428571427
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.35535714285714287,
+        "nonzero_dc_fraction": 0.4147321428571429
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.28169642857142857,
+        "nonzero_dc_fraction": 0.35892857142857143
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.26607142857142857,
+        "nonzero_dc_fraction": 0.3366071428571429
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2598214285714286,
+        "nonzero_dc_fraction": 0.321875
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.253125,
+        "nonzero_dc_fraction": 0.31339285714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2513392857142857,
+        "nonzero_dc_fraction": 0.3142857142857143
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2513392857142857,
+        "nonzero_dc_fraction": 0.31473214285714285
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.25089285714285714,
+        "nonzero_dc_fraction": 0.3142857142857143
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.25089285714285714,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2517857142857143,
+        "nonzero_dc_fraction": 0.31651785714285713
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.25089285714285714,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.25223214285714285,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2517857142857143,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2517857142857143,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2517857142857143,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.25089285714285714,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2513392857142857,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2513392857142857,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2513392857142857,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2513392857142857,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.25089285714285714,
+        "nonzero_dc_fraction": 0.3151785714285714
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.25044642857142857,
+        "nonzero_dc_fraction": 0.31473214285714285
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24955357142857143,
+        "nonzero_dc_fraction": 0.31473214285714285
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24955357142857143,
+        "nonzero_dc_fraction": 0.31473214285714285
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24910714285714286,
+        "nonzero_dc_fraction": 0.31473214285714285
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24821428571428572,
+        "nonzero_dc_fraction": 0.3142857142857143
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2486607142857143,
+        "nonzero_dc_fraction": 0.3142857142857143
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24732142857142858,
+        "nonzero_dc_fraction": 0.3125
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.246875,
+        "nonzero_dc_fraction": 0.3125
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24642857142857144,
+        "nonzero_dc_fraction": 0.3125
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24642857142857144,
+        "nonzero_dc_fraction": 0.3125
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24642857142857144,
+        "nonzero_dc_fraction": 0.3125
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.246875,
+        "nonzero_dc_fraction": 0.3125
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24642857142857144,
+        "nonzero_dc_fraction": 0.3098214285714286
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24642857142857144,
+        "nonzero_dc_fraction": 0.3098214285714286
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24598214285714284,
+        "nonzero_dc_fraction": 0.3098214285714286
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.2450892857142857,
+        "nonzero_dc_fraction": 0.30848214285714287
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24464285714285713,
+        "nonzero_dc_fraction": 0.30848214285714287
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24419642857142856,
+        "nonzero_dc_fraction": 0.30848214285714287
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24419642857142856,
+        "nonzero_dc_fraction": 0.30848214285714287
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24285714285714285,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 32.0,
+        "owner_fraction": 0.24285714285714285,
+        "nonzero_dc_fraction": 0.30758928571428573
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.24285714285714285,
+        "nonzero_dc_fraction": 0.25401785714285713
+      },
+      {
+        "beta": 64.0,
+        "owner_fraction": 0.24330357142857142,
+        "nonzero_dc_fraction": 0.2544642857142857
+      }
+    ]
+  }
+}
